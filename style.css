@@ -1,0 +1,38 @@
+body {
+        background: #d5e1ef;
+      }
+      div {
+        width: 320px;
+        background-color: #ffffff;
+        border-radius: 20px;
+        height: 497px;
+        position: absolute;
+        top: 15px;
+        left: 450px;
+        padding: 16px;
+        margin: 15px 56px;
+      }
+      img {
+        max-width: 100%;
+        border-radius: 10px;
+        overflow: hidden;
+      }
+      h1 {
+        height: 56px;
+
+        font-size: 22px;
+        font-weight: 700;
+        text-align: center;
+        font-style: bold;
+        font-family: "Outfit";
+      }
+      p {
+        height: 57px;
+        font-weight: 400;
+        top: 72px;
+        left: 16px;
+        font-size: 15px;
+        text-align: center;
+        font-family: "Outfit";
+        font-style: normal;
+      }
